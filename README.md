@@ -20,7 +20,7 @@
 <div style="text-align: left;" align="CENTER">&nbsp;</div>
 </div>
 
-## Contacto
+## Contacto 🤝
 Cualquier duda, sugerencia o mejora es bienvenida.
   No olvides que podés escribir en la sección de <a href="https://github.com/OmgCopito95/App-Precio-Monedas/issues"> issues. </a>
   <br>
